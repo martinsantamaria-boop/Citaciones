@@ -1,81 +1,81 @@
 ,ORDEN #,ORDEN,Vuelta,Cita,Doca,#,Citación,Ingreso,Egreso,MLP,Unidad,Cambió??,Bloque,Equipo,Extrae,OrdenLetra,Concatenado,,,OrdenLetra,Concatenado,COUNTA de Concatenado,,0:35,,Unidad,COUNTA de Unidad,,,,Doca,Bloque,Equipo
-0:05:00,1-PRIM,A,Ola 1,Cita 1,Doca,1,8:25,8:30,9:20,Iflow,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Iflow  (UT- SDD),,,A,8:25 - Andesmar  (Larga),2,,,,,0,,,,1,CUMBIA,ROSA
-0:30,2-PRIM,A,Ola 1,Cita 1,Doca,2,8:25,8:30,9:20,Clicoh,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Clicoh  (UT- SDD),,,A,8:25 - Chazki  (Mediana),1,,,,Bloqueada,40,,,,2,CUMBIA,ROSA
-,3-PRIM,A,Ola 1,Cita 1,Doca,3,8:25,8:30,9:20,Clicoh,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Clicoh  (UT- SDD),,,A,8:25 - Clicoh  (UT- SDD),2,,,,Branding,3,,,,3,CUMBIA,ROSA
-,4-PRIM,A,Ola 1,Cita 1,Doca,4,8:25,8:30,9:20,QX Logistica,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - QX Logistica  (UT- SDD),,,A,8:25 - Iflow  (UT- SDD),1,,,,Chasis,5,,,,4,CUMBIA,ROSA
-,5-PRIM,A,Ola 1,Cita 1,Doca,5,8:25,8:30,9:20,Andesmar,Larga,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Andesmar  (Larga),,,A,8:25 - Intermedio  (Mediana),1,,,,Chasis Mediano,1,,,,5,CUMBIA,ROSA
-,6-PRIM,A,Ola 1,Cita 1,Doca,6,8:25,8:30,9:20,Andesmar,Larga,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Andesmar  (Larga),,,A,8:25 - Oeste Postal  (Mediana),1,,,,Corta,71,,,,6,CUMBIA,ROSA
-,7-PRIM,A,Ola 1,Cita 1,Doca,7,8:25,8:30,9:20,Chazki,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Chazki  (Mediana),,,A,8:25 - QX Logistica  (Mediana),1,,,,Larga,128,,,,7,CUMBIA,ROSA
-,8-PRIM,A,Ola 1,Cita 1,Doca,8,8:25,8:30,9:20,Intermedio,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Intermedio  (Mediana),,,A,8:25 - QX Logistica  (UT- SDD),1,,,,Mediana,19,,,,8,CUMBIA,ROSA
-,9-PRIM,A,Ola 1,Cita 1,Doca,9,8:25,8:30,9:20,Oeste Postal,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Oeste Postal  (Mediana),,,B,8:30 - Andesmar  (Corta),1,,,,Meli Extra,57,,,,9,CUMBIA,ROSA
-,10-PRIM,A,Ola 1,Cita 1,Doca,10,8:25,8:30,9:20,QX Logistica,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - QX Logistica  (Mediana),,,B,8:30 - Chazki  (Corta),1,,,,UT- SDD,16,,,,10,CUMBIA,ROSA
-,11-PRIM,B,Ola 1,Cita 2,Doca,11,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,B,8:30 - Dominus Cargo  (Corta),1,,,,Suma total,340,,,,11,CUMBIA,VERDE
-,12-PRIM,B,Ola 1,Cita 2,Doca,12,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,B,8:30 - EntregAr  (Corta),1,,,,,,,,,12,CUMBIA,VERDE
-,13-PRIM,B,Ola 1,Cita 2,Doca,13,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,B,8:30 - EPSA  (Corta),1,,,,,,,,,13,CUMBIA,VERDE
-,14-PRIM,B,Ola 1,Cita 2,Doca,14,8:30,8:35,9:10,EntregAr,Corta,FALSE,CUMBIA,VERDE,8:30,B,8:30 - EntregAr  (Corta),,,B,8:30 - Fleet  (Corta),1,,,,,,,,,14,CUMBIA,VERDE
-,15-PRIM,B,Ola 1,Cita 2,Doca,15,8:30,8:35,9:10,Southpost,Corta,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Corta),,,B,8:30 - Iflow  (Corta),1,,,,,,,,,15,CUMBIA,VERDE
-,16-PRIM,B,Ola 1,Cita 2,Doca,16,8:30,8:35,9:10,Dominus Cargo,Corta,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Dominus Cargo  (Corta),,,B,8:30 - Maman  (Corta),1,,,,,,,,,16,CUMBIA,VERDE
-,17-PRIM,B,Ola 1,Cita 2,Doca,17,8:30,8:35,9:10,QX Logistica,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - QX Logistica  (Corta),,,B,8:30 - QX Logistica  (Corta),1,,,,,,,,,17,ROCK,AMARILLO
-,18-PRIM,B,Ola 1,Cita 2,Doca,18,8:30,8:35,9:10,Chazki,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - Chazki  (Corta),,,B,8:30 - Southpost  (Branding),3,,,,,,,,,18,ROCK,AMARILLO
-,19-PRIM,B,Ola 1,Cita 2,Doca,19,8:30,8:35,9:10,Fleet,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - Fleet  (Corta),,,B,8:30 - Southpost  (Corta),1,,,,,,,,,19,ROCK,AMARILLO
-,20-PRIM,B,Ola 1,Cita 2,Doca,20,8:30,8:35,9:10,Maman,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - Maman  (Corta),,,C,8:45 - Flashbox Delivery  (Larga),6,,,,,,,,,20,ROCK,AMARILLO
-,21-PRIM,B,Ola 1,Cita 2,Doca,21,8:30,8:35,9:10,Andesmar,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - Andesmar  (Corta),,,C,8:45 - QX Logistica  (Larga),3,,,,,,,,,21,ROCK,AMARILLO
-,22-PRIM,B,Ola 1,Cita 2,Doca,22,8:30,8:35,9:10,Iflow,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - Iflow  (Corta),,,D,8:55 - Dominus Cargo  (Larga),4,,,,,,,,,22,ROCK,AMARILLO
-,23-PRIM,B,Ola 1,Cita 2,Doca,23,8:30,8:35,9:10,EPSA,Corta,FALSE,ROCK,AMARILLO,8:30,B,8:30 - EPSA  (Corta),,,D,8:55 - EntregAr  (Larga),5,,,,,,,,,23,ROCK,AMARILLO
-,24-PRIM,C,Ola 1,Cita 3,Doca,24,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,CUMBIA,VERDE,8:45,C,8:45 - Flashbox Delivery  (Larga),,,D,8:55 - QX Logistica  (Larga),2,,,,,,,,,24,CUMBIA,VERDE
-,25-PRIM,C,Ola 1,Cita 3,Doca,25,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,CUMBIA,VERDE,8:45,C,8:45 - Flashbox Delivery  (Larga),,,F,9:10 - Clicoh  (Corta),1,,,,,,,,,25,CUMBIA,VERDE
-,26-PRIM,C,Ola 1,Cita 3,Doca,26,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,CUMBIA,VERDE,8:45,C,8:45 - Flashbox Delivery  (Larga),,,F,9:10 - Correo e-Flet  (Corta),1,,,,,,,,,26,CUMBIA,VERDE
-,27-PRIM,C,Ola 1,Cita 3,Doca,27,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,CUMBIA,VERDE,8:45,C,8:45 - Flashbox Delivery  (Larga),,,F,9:10 - ELOG  (Corta),2,,,,,,,,,27,CUMBIA,VERDE
-,28-PRIM,C,Ola 1,Cita 3,Doca,28,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,ROCK,AMARILLO,8:45,C,8:45 - Flashbox Delivery  (Larga),,,F,9:10 - Intermedio  (Corta),1,,,,,,,,,28,ROCK,AMARILLO
-,29-PRIM,C,Ola 1,Cita 3,Doca,29,8:45,8:50,9:40,Flashbox Delivery,Larga,FALSE,ROCK,AMARILLO,8:45,C,8:45 - Flashbox Delivery  (Larga),,,F,9:10 - NyG  (Corta),1,,,,,,,,,29,ROCK,AMARILLO
-,30-PRIM,C,Ola 1,Cita 3,Doca,30,8:45,8:50,9:40,QX Logistica,Larga,FALSE,ROCK,AMARILLO,8:45,C,8:45 - QX Logistica  (Larga),,,F,9:10 - Oeste Postal  (Corta),1,,,,,,,,,30,ROCK,AMARILLO
-,31-PRIM,C,Ola 1,Cita 3,Doca,31,8:45,8:50,9:40,QX Logistica,Larga,FALSE,ROCK,AMARILLO,8:45,C,8:45 - QX Logistica  (Larga),,,F,9:10 - Promail  (Corta),1,,,,,,,,,31,ROCK,AMARILLO
-,32-PRIM,C,Ola 1,Cita 3,Doca,32,8:45,8:50,9:40,QX Logistica,Larga,FALSE,ROCK,AMARILLO,8:45,C,8:45 - QX Logistica  (Larga),,,G,9:15 - Andesmar  (Mediana),1,,,,,,,,,32,ROCK,AMARILLO
-,33-PRIM,D,Ola 1,Cita 4,Doca,33,8:55,9:00,9:50,QX Logistica,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - QX Logistica  (Larga),,,G,9:15 - DPD Argentina S.A  (Mediana),1,,,,,,,,,33,CUMBIA,AZUL
-,34-PRIM,D,Ola 1,Cita 4,Doca,34,8:55,9:00,9:50,QX Logistica,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - QX Logistica  (Larga),,,G,9:15 - DPD Argentina S.A  (UT- SDD),2,,,,,,,,,34,CUMBIA,AZUL
-,35-PRIM,D,Ola 1,Cita 4,Doca,35,8:55,9:00,9:50,Dominus Cargo,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - Dominus Cargo  (Larga),,,G,9:15 - ELOG  (Larga),1,,,,,,,,,35,CUMBIA,AZUL
-,36-PRIM,D,Ola 1,Cita 4,Doca,36,8:55,9:00,9:50,Dominus Cargo,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - Dominus Cargo  (Larga),,,G,9:15 - Fleet  (Larga),1,,,,,,,,,36,CUMBIA,AZUL
-,37-PRIM,D,Ola 1,Cita 4,Doca,37,8:55,9:00,9:50,Dominus Cargo,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - Dominus Cargo  (Larga),,,G,9:15 - Fleet  (Mediana),1,,,,,,,,,37,CUMBIA,AZUL
-,38-PRIM,D,Ola 1,Cita 4,Doca,38,8:55,9:00,9:50,Dominus Cargo,Larga,FALSE,CUMBIA,AZUL,8:55,D,8:55 - Dominus Cargo  (Larga),,,G,9:15 - Kaizen  (UT- SDD),2,,,,,,,,,38,CUMBIA,AZUL
-,39-PRIM,D,Ola 1,Cita 4,Doca,39,8:55,9:00,9:20,,Bloqueada,FALSE,CUMBIA,AZUL,8:55,,,,,G,9:15 - NyG  (Mediana),1,,,,,,,,,39,CUMBIA,AZUL
-,40-PRIM,D,Ola 1,Cita 4,Doca,40,8:55,9:00,9:20,,Bloqueada,FALSE,ROCK,AZUL,8:55,,,,,H,9:35 - Chazki  (Larga),7,,,,,,,,,40,ROCK,AZUL
-,41-PRIM,D,Ola 1,Cita 4,Doca,41,8:55,9:00,9:50,EntregAr,Larga,FALSE,ROCK,AZUL,8:55,D,8:55 - EntregAr  (Larga),,,H,9:35 - Maman  (Larga),2,,,,,,,,,41,ROCK,AZUL
-,42-PRIM,D,Ola 1,Cita 4,Doca,42,8:55,9:00,9:50,EntregAr,Larga,FALSE,ROCK,AZUL,8:55,D,8:55 - EntregAr  (Larga),,,I,9:45 - Correo e-Flet  (Larga),2,,,,,,,,,42,ROCK,AZUL
-,43-PRIM,D,Ola 1,Cita 4,Doca,43,8:55,9:00,9:50,EntregAr,Larga,FALSE,ROCK,AZUL,8:55,D,8:55 - EntregAr  (Larga),,,I,9:45 - EPSA  (Larga),3,,,,,,,,,43,ROCK,AZUL
-,44-PRIM,D,Ola 1,Cita 4,Doca,44,8:55,9:00,9:50,EntregAr,Larga,FALSE,ROCK,AZUL,8:55,D,8:55 - EntregAr  (Larga),,,I,9:45 - Iflow  (Larga),2,,,,,,,,,44,ROCK,AZUL
-,45-PRIM,D,Ola 1,Cita 4,Doca,45,8:55,9:00,9:50,EntregAr,Larga,FALSE,ROCK,AZUL,8:55,D,8:55 - EntregAr  (Larga),,,I,9:45 - Intermedio  (Larga),2,,,,,,,,,45,ROCK,AZUL
-,46-PRIM,E,Ola 1,Cita 5,Doca,46,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,I,9:45 - Oeste Postal  (Larga),2,,,,,,,,,46,ROCK,ROJO
-,47-PRIM,E,Ola 1,Cita 5,Doca,47,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,J,9:55 - DPD Argentina S.A  (Larga),3,,,,,,,,,47,ROCK,ROJO
-,48-PRIM,E,Ola 1,Cita 5,Doca,48,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,J,9:55 - Fast Track  (Larga),3,,,,,,,,,48,ROCK,ROJO
-,49-PRIM,E,Ola 1,Cita 5,Doca,49,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,K,10:00 - Chazki  (Chasis),1,,,,,,,,,49,ROCK,ROJO
-,50-PRIM,E,Ola 1,Cita 5,Doca,50,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,K,10:00 - EntregAr  (Chasis),1,,,,,,,,,50,ROCK,ROJO
-,51-PRIM,E,Ola 1,Cita 5,Doca,51,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,L,10:05 - Clicoh  (Larga),1,,,,,,,,,51,ROCK,ROJO
-,52-PRIM,E,Ola 1,Cita 5,Doca,52,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,L,10:05 - EntregAr  (UT- SDD),2,,,,,,,,,52,ROCK,ROJO
-,53-PRIM,E,Ola 1,Cita 5,Doca,53,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,L,10:05 - Kaizen  (UT- SDD),2,,,,,,,,,53,ROCK,ROJO
-,54-PRIM,E,Ola 1,Cita 5,Doca,54,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,L,10:05 - Webpack  (Larga),1,,,,,,,,,54,ROCK,ROJO
-,55-PRIM,E,Ola 1,Cita 5,Doca,55,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,M,10:25 - Iflow  (Larga),1,,,,,,,,,55,ROCK,ROJO
-,56-PRIM,E,Ola 1,Cita 5,Doca,56,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,M,10:25 - Kaizen  (Larga),1,,,,,,,,,56,ROCK,ROJO
-,57-PRIM,E,Ola 1,Cita 5,Doca,57,9:05,9:10,9:30,,Bloqueada,,ROCK,ROJO,9:05,,,,,M,10:25 - NyG  (Larga),5,,,,,,,,,57,ROCK,ROJO
-,58-PRIM,E,Ola 1,Cita 5,Doca,58,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,M,10:25 - Shipment Box  (Larga),1,,,,,,,,,58,ROCK,ROJO
-,14-SEG,F,Ola 2,Cita 6,Doca,14,9:10,9:15,9:50,Promail,Corta,FALSE,CUMBIA,VERDE,9:10,F,9:10 - Promail  (Corta),,,Q,10:55 - EntregAr  (UT- SDD),2,,,,,,,,,,,
-,15-SEG,F,Ola 2,Cita 6,Doca,15,9:10,9:15,9:50,Oeste Postal,Corta,FALSE,CUMBIA,VERDE,9:10,F,9:10 - Oeste Postal  (Corta),,,Suma total,,105,,,,,,,,,,,
-,16-SEG,F,Ola 2,Cita 6,Doca,16,9:10,9:15,9:50,Correo e-Flet,Corta,FALSE,CUMBIA,VERDE,9:10,F,9:10 - Correo e-Flet  (Corta),,,,,,,,,,,,,,,,
-,17-SEG,F,Ola 2,Cita 6,Doca,17,9:10,9:15,9:50,Clicoh,Corta,FALSE,ROCK,AMARILLO,9:10,F,9:10 - Clicoh  (Corta),,,,,,,,,,,,,,,,
-,18-SEG,F,Ola 2,Cita 6,Doca,18,9:10,9:15,9:50,Intermedio,Corta,FALSE,ROCK,AMARILLO,9:10,F,9:10 - Intermedio  (Corta),,,,,,,,,,,,,,,,
-,19-SEG,F,Ola 2,Cita 6,Doca,19,9:10,9:15,9:50,NyG,Corta,FALSE,ROCK,AMARILLO,9:10,F,9:10 - NyG  (Corta),,,,,,,,,,,,,,,,
-,20-SEG,F,Ola 2,Cita 6,Doca,20,9:10,9:15,9:50,ELOG,Corta,FALSE,ROCK,AMARILLO,9:10,F,9:10 - ELOG  (Corta),,,,,,,,,,,,,,,,
-,21-SEG,F,Ola 2,Cita 6,Doca,21,9:10,9:15,9:50,ELOG,Corta,FALSE,ROCK,AMARILLO,9:10,F,9:10 - ELOG  (Corta),,,,,,,,,,,,,,,,
-,22-SEG,F,Ola 2,Cita 6,Doca,22,9:10,9:15,9:50,,Corta,FALSE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
-,23-SEG,F,Ola 2,Cita 6,Doca,23,9:10,9:15,9:50,,Corta,FALSE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
-,46-SEG,J,Ola 2,Cita 10,Doca,46,9:10,9:15,9:50,,Corta,FALSE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
-,47-SEG,J,Ola 2,Cita 10,Doca,47,9:10,9:15,9:50,,Corta,FALSE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
-,48-SEG,J,Ola 2,Cita 10,Doca,48,9:10,9:15,9:50,,Corta,FALSE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
-,1-SEG,G,Ola 2,Cita 7,Doca,1,9:15,9:20,10:10,DPD Argentina S.A,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - DPD Argentina S.A  (UT- SDD),,,,,,,,,,,,,,,,
-,2-SEG,G,Ola 2,Cita 7,Doca,2,9:15,9:20,10:10,DPD Argentina S.A,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - DPD Argentina S.A  (UT- SDD),,,,,,,,,,,,,,,,
+0:05:00,1-PRIM,A,Ola 1,Cita 1,Doca,1,8:25,8:30,9:20,Iflow,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Iflow  (UT- SDD),,,A,8:25 - Chazki  (Mediana),1,,,,,0,,,,1,CUMBIA,ROSA
+0:30,2-PRIM,A,Ola 1,Cita 1,Doca,2,8:25,8:30,9:20,Clicoh,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Clicoh  (UT- SDD),,,A,8:25 - Clicoh  (UT- SDD),2,,,,Bloqueada,43,,,,2,CUMBIA,ROSA
+,3-PRIM,A,Ola 1,Cita 1,Doca,3,8:25,8:30,9:20,Clicoh,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Clicoh  (UT- SDD),,,A,8:25 - Iflow  (UT- SDD),1,,,,Branding,3,,,,3,CUMBIA,ROSA
+,4-PRIM,A,Ola 1,Cita 1,Doca,4,8:25,8:30,9:20,QX Logistica,UT- SDD,FALSE,CUMBIA,ROSA,8:25,A,8:25 - QX Logistica  (UT- SDD),,,A,8:25 - Intermedio  (Mediana),1,,,,Chasis,5,,,,4,CUMBIA,ROSA
+,5-PRIM,A,Ola 1,Cita 1,Doca,5,8:25,8:30,9:20,,Larga,FALSE,CUMBIA,ROSA,8:25,,,,,A,8:25 - Oeste Postal  (Mediana),1,,,,Chasis Mediano,1,,,,5,CUMBIA,ROSA
+,6-PRIM,A,Ola 1,Cita 1,Doca,6,8:25,8:30,9:20,,Larga,FALSE,CUMBIA,ROSA,8:25,,,,,A,8:25 - QX Logistica  (Mediana),1,,,,Corta,68,,,,6,CUMBIA,ROSA
+,7-PRIM,A,Ola 1,Cita 1,Doca,7,8:25,8:30,9:20,Chazki,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Chazki  (Mediana),,,A,8:25 - QX Logistica  (UT- SDD),1,,,,Larga,128,,,,7,CUMBIA,ROSA
+,8-PRIM,A,Ola 1,Cita 1,Doca,8,8:25,8:30,9:20,Intermedio,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Intermedio  (Mediana),,,B,8:30 - Southpost  (Branding),3,,,,Mediana,19,,,,8,CUMBIA,ROSA
+,9-PRIM,A,Ola 1,Cita 1,Doca,9,8:25,8:30,9:20,Oeste Postal,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - Oeste Postal  (Mediana),,,F,9:10 - ELOG  (Corta),1,,,,Meli Extra,66,,,,9,CUMBIA,ROSA
+,10-PRIM,A,Ola 1,Cita 1,Doca,10,8:25,8:30,9:20,QX Logistica,Mediana,FALSE,CUMBIA,ROSA,8:25,A,8:25 - QX Logistica  (Mediana),,,F,9:10 - QX Logistica  (Corta),1,,,,UT- SDD,16,,,,10,CUMBIA,ROSA
+,11-PRIM,B,Ola 1,Cita 2,Doca,11,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,G,9:15 - Andesmar  (Mediana),1,,,,Suma total,349,,,,11,CUMBIA,VERDE
+,12-PRIM,B,Ola 1,Cita 2,Doca,12,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,G,9:15 - DPD Argentina S.A  (Mediana),1,,,,,,,,,12,CUMBIA,VERDE
+,13-PRIM,B,Ola 1,Cita 2,Doca,13,8:30,8:35,9:25,Southpost,Branding,FALSE,CUMBIA,VERDE,8:30,B,8:30 - Southpost  (Branding),,,G,9:15 - Fleet  (Mediana),1,,,,,,,,,13,CUMBIA,VERDE
+,14-PRIM,B,Ola 1,Cita 2,Doca,14,8:30,8:35,9:10,,Corta,FALSE,CUMBIA,VERDE,8:30,,,,,G,9:15 - Intermedio  (Larga),2,,,,,,,,,14,CUMBIA,VERDE
+,15-PRIM,B,Ola 1,Cita 2,Doca,15,8:30,8:35,9:10,,Corta,FALSE,CUMBIA,VERDE,8:30,,,,,G,9:15 - Kaizen  (UT- SDD),4,,,,,,,,,15,CUMBIA,VERDE
+,16-PRIM,B,Ola 1,Cita 2,Doca,16,8:30,8:35,9:10,,Corta,FALSE,CUMBIA,VERDE,8:30,,,,,G,9:15 - NyG  (Mediana),1,,,,,,,,,16,CUMBIA,VERDE
+,17-PRIM,B,Ola 1,Cita 2,Doca,17,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,H,9:25 - ELOG  (Larga),1,,,,,,,,,17,ROCK,AMARILLO
+,18-PRIM,B,Ola 1,Cita 2,Doca,18,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,H,9:25 - EntregAr  (Larga),6,,,,,,,,,18,ROCK,AMARILLO
+,19-PRIM,B,Ola 1,Cita 2,Doca,19,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,H,9:35 - Flashbox Delivery  (Larga),2,,,,,,,,,19,ROCK,AMARILLO
+,20-PRIM,B,Ola 1,Cita 2,Doca,20,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,I,9:35 - Correo e-Flet  (Larga),2,,,,,,,,,20,ROCK,AMARILLO
+,21-PRIM,B,Ola 1,Cita 2,Doca,21,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,I,9:35 - Flashbox Delivery  (Larga),4,,,,,,,,,21,ROCK,AMARILLO
+,22-PRIM,B,Ola 1,Cita 2,Doca,22,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,I,9:45 - Chazki  (Larga),5,,,,,,,,,22,ROCK,AMARILLO
+,23-PRIM,B,Ola 1,Cita 2,Doca,23,8:30,8:35,9:10,,Corta,FALSE,ROCK,AMARILLO,8:30,,,,,J,9:45 - Chazki  (Larga),2,,,,,,,,,23,ROCK,AMARILLO
+,24-PRIM,C,Ola 1,Cita 3,Doca,24,8:45,8:50,9:40,,Larga,FALSE,CUMBIA,VERDE,8:45,,,,,J,9:45 - Dominus Cargo  (Larga),4,,,,,,,,,24,CUMBIA,VERDE
+,25-PRIM,C,Ola 1,Cita 3,Doca,25,8:45,8:50,9:40,,Larga,FALSE,CUMBIA,VERDE,8:45,,,,,K,10:00 - Chazki  (Chasis Mediano),1,,,,,,,,,25,CUMBIA,VERDE
+,26-PRIM,C,Ola 1,Cita 3,Doca,26,8:45,8:50,9:40,,Larga,FALSE,CUMBIA,VERDE,8:45,,,,,K,10:00 - Chazki  (Chasis),2,,,,,,,,,26,CUMBIA,VERDE
+,27-PRIM,C,Ola 1,Cita 3,Doca,27,8:45,8:50,9:40,,Larga,FALSE,CUMBIA,VERDE,8:45,,,,,K,10:00 - Correo e-Flet  (Corta),1,,,,,,,,,27,CUMBIA,VERDE
+,28-PRIM,C,Ola 1,Cita 3,Doca,28,8:45,8:50,9:40,,Larga,FALSE,ROCK,AMARILLO,8:45,,,,,K,10:00 - Oeste Postal  (Corta),1,,,,,,,,,28,ROCK,AMARILLO
+,29-PRIM,C,Ola 1,Cita 3,Doca,29,8:45,8:50,9:40,,Larga,FALSE,ROCK,AMARILLO,8:45,,,,,L,10:05 - EntregAr  (UT- SDD),4,,,,,,,,,29,ROCK,AMARILLO
+,30-PRIM,C,Ola 1,Cita 3,Doca,30,8:45,8:50,9:40,,Larga,FALSE,ROCK,AMARILLO,8:45,,,,,L,10:10 - Iflow  (Larga),2,,,,,,,,,30,ROCK,AMARILLO
+,31-PRIM,C,Ola 1,Cita 3,Doca,31,8:45,8:50,9:40,,Larga,FALSE,ROCK,AMARILLO,8:45,,,,,M,10:15 - Maman  (Larga),1,,,,,,,,,31,ROCK,AMARILLO
+,32-PRIM,C,Ola 1,Cita 3,Doca,32,8:45,8:50,9:40,,Larga,FALSE,ROCK,AMARILLO,8:45,,,,,M,10:15 - Oeste Postal  (Larga),2,,,,,,,,,32,ROCK,AMARILLO
+,33-PRIM,D,Ola 1,Cita 4,Doca,33,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,M,10:15 - QX Logistica  (Larga),6,,,,,,,,,33,CUMBIA,AZUL
+,34-PRIM,D,Ola 1,Cita 4,Doca,34,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Andesmar  (Larga),2,,,,,,,,,34,CUMBIA,AZUL
+,35-PRIM,D,Ola 1,Cita 4,Doca,35,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Clicoh  (Larga),1,,,,,,,,,35,CUMBIA,AZUL
+,36-PRIM,D,Ola 1,Cita 4,Doca,36,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Fleet  (Larga),1,,,,,,,,,36,CUMBIA,AZUL
+,37-PRIM,D,Ola 1,Cita 4,Doca,37,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Kaizen  (Larga),1,,,,,,,,,37,CUMBIA,AZUL
+,38-PRIM,D,Ola 1,Cita 4,Doca,38,8:55,9:00,9:50,,Larga,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Maman  (Larga),2,,,,,,,,,38,CUMBIA,AZUL
+,39-PRIM,D,Ola 1,Cita 4,Doca,39,8:55,9:00,9:20,,Bloqueada,FALSE,CUMBIA,AZUL,8:55,,,,,N,10:30 - Shipment Box  (Larga),1,,,,,,,,,39,CUMBIA,AZUL
+,40-PRIM,D,Ola 1,Cita 4,Doca,40,8:55,9:00,9:20,,Bloqueada,FALSE,ROCK,AZUL,8:55,,,,,N,10:30 - Webpack  (Larga),1,,,,,,,,,40,ROCK,AZUL
+,41-PRIM,D,Ola 1,Cita 4,Doca,41,8:55,9:00,9:50,,Larga,FALSE,ROCK,AZUL,8:55,,,,,N,10:40 - EnvioPack  (Larga),2,,,,,,,,,41,ROCK,AZUL
+,42-PRIM,D,Ola 1,Cita 4,Doca,42,8:55,9:00,9:50,,Larga,FALSE,ROCK,AZUL,8:55,,,,,O,10:40 - DPD Argentina S.A  (Larga),2,,,,,,,,,42,ROCK,AZUL
+,43-PRIM,D,Ola 1,Cita 4,Doca,43,8:55,9:00,9:50,,Larga,FALSE,ROCK,AZUL,8:55,,,,,O,10:40 - EnvioPack  (Larga),1,,,,,,,,,43,ROCK,AZUL
+,44-PRIM,D,Ola 1,Cita 4,Doca,44,8:55,9:00,9:50,,Larga,FALSE,ROCK,AZUL,8:55,,,,,O,10:40 - EPSA  (Larga),3,,,,,,,,,44,ROCK,AZUL
+,45-PRIM,D,Ola 1,Cita 4,Doca,45,8:55,9:00,9:50,,Larga,FALSE,ROCK,AZUL,8:55,,,,,Q,10:55 - DPD Argentina S.A  (UT- SDD),2,,,,,,,,,45,ROCK,AZUL
+,46-PRIM,E,Ola 1,Cita 5,Doca,46,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,Q,11:00 - Fast Track  (Larga),3,,,,,,,,,46,ROCK,ROJO
+,47-PRIM,E,Ola 1,Cita 5,Doca,47,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,Q,11:00 - Flashbox Delivery  (Larga),1,,,,,,,,,47,ROCK,ROJO
+,48-PRIM,E,Ola 1,Cita 5,Doca,48,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,Q,11:00 - NyG  (Larga),5,,,,,,,,,48,ROCK,ROJO
+,49-PRIM,E,Ola 1,Cita 5,Doca,49,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,Suma total,,97,,,,,,,,,49,ROCK,ROJO
+,50-PRIM,E,Ola 1,Cita 5,Doca,50,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,50,ROCK,ROJO
+,51-PRIM,E,Ola 1,Cita 5,Doca,51,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,51,ROCK,ROJO
+,52-PRIM,E,Ola 1,Cita 5,Doca,52,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,52,ROCK,ROJO
+,53-PRIM,E,Ola 1,Cita 5,Doca,53,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,53,ROCK,ROJO
+,54-PRIM,E,Ola 1,Cita 5,Doca,54,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,54,ROCK,ROJO
+,55-PRIM,E,Ola 1,Cita 5,Doca,55,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,55,ROCK,ROJO
+,56-PRIM,E,Ola 1,Cita 5,Doca,56,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,56,ROCK,ROJO
+,57-PRIM,E,Ola 1,Cita 5,Doca,57,9:05,9:10,9:30,,Bloqueada,,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,57,ROCK,ROJO
+,58-PRIM,E,Ola 1,Cita 5,Doca,58,9:05,9:10,9:30,,Bloqueada,FALSE,ROCK,ROJO,9:05,,,,,,,,,,,,,,,,58,ROCK,ROJO
+,14-SEG,F,Ola 2,Cita 6,Doca,14,9:10,9:15,9:50,ELOG,Corta,FALSE,CUMBIA,VERDE,9:10,F,9:10 - ELOG  (Corta),,,,,,,,,,,,,,,,
+,15-SEG,F,Ola 2,Cita 6,Doca,15,9:10,9:15,9:50,QX Logistica,Corta,FALSE,CUMBIA,VERDE,9:10,F,9:10 - QX Logistica  (Corta),,,,,,,,,,,,,,,,
+,16-SEG,F,Ola 2,Cita 6,Doca,16,9:10,9:15,9:50,,Corta,TRUE,CUMBIA,VERDE,9:10,,,,,,,,,,,,,,,,,,
+,17-SEG,F,Ola 2,Cita 6,Doca,17,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,18-SEG,F,Ola 2,Cita 6,Doca,18,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,19-SEG,F,Ola 2,Cita 6,Doca,19,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,20-SEG,F,Ola 2,Cita 6,Doca,20,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,21-SEG,F,Ola 2,Cita 6,Doca,21,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,22-SEG,F,Ola 2,Cita 6,Doca,22,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,23-SEG,F,Ola 2,Cita 6,Doca,23,9:10,9:15,9:50,,Corta,TRUE,ROCK,AMARILLO,9:10,,,,,,,,,,,,,,,,,,
+,46-SEG,J,Ola 2,Cita 10,Doca,46,9:10,9:15,9:50,,Corta,TRUE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
+,47-SEG,J,Ola 2,Cita 10,Doca,47,9:10,9:15,9:50,,Corta,TRUE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
+,48-SEG,J,Ola 2,Cita 10,Doca,48,9:10,9:15,9:50,,Corta,TRUE,ROCK,ROJO,9:10,,,,,,,,,,,,,,,,,,
+,1-SEG,G,Ola 2,Cita 7,Doca,1,9:15,9:20,10:10,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
+,2-SEG,G,Ola 2,Cita 7,Doca,2,9:15,9:20,10:10,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
 ,3-SEG,G,Ola 2,Cita 7,Doca,3,9:15,9:20,10:10,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
 ,4-SEG,G,Ola 2,Cita 7,Doca,4,9:15,9:20,10:10,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
-,5-SEG,G,Ola 2,Cita 7,Doca,5,9:15,9:20,10:10,ELOG,Larga,FALSE,CUMBIA,ROSA,9:15,G,9:15 - ELOG  (Larga),,,,,,,,,,,,,,,,
-,6-SEG,G,Ola 2,Cita 7,Doca,6,9:15,9:20,10:10,Fleet,Larga,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Fleet  (Larga),,,,,,,,,,,,,,,,
+,5-SEG,G,Ola 2,Cita 7,Doca,5,9:15,9:20,10:10,Intermedio,Larga,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Intermedio  (Larga),,,,,,,,,,,,,,,,
+,6-SEG,G,Ola 2,Cita 7,Doca,6,9:15,9:20,10:10,Intermedio,Larga,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Intermedio  (Larga),,,,,,,,,,,,,,,,
 ,7-SEG,G,Ola 2,Cita 7,Doca,7,9:15,9:20,10:10,Fleet,Mediana,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Fleet  (Mediana),,,,,,,,,,,,,,,,
 ,8-SEG,G,Ola 2,Cita 7,Doca,8,9:15,9:20,10:10,Andesmar,Mediana,FALSE,CUMBIA,ROSA,9:15,G,9:15 - Andesmar  (Mediana),,,,,,,,,,,,,,,,
 ,9-SEG,G,Ola 2,Cita 7,Doca,9,9:15,9:20,10:10,DPD Argentina S.A,Mediana,FALSE,CUMBIA,ROSA,9:15,G,9:15 - DPD Argentina S.A  (Mediana),,,,,,,,,,,,,,,,
@@ -83,60 +83,60 @@
 ,11-SEG,H,Ola 2,Cita 8,Doca,11,9:35,9:40,10:30,,Bloqueada,FALSE,CUMBIA,VERDE,9:35,,,,,,,,,,,,,,,,,,
 ,12-SEG,H,Ola 2,Cita 8,Doca,12,9:35,9:40,10:30,,Bloqueada,FALSE,CUMBIA,VERDE,9:35,,,,,,,,,,,,,,,,,,
 ,13-SEG,H,Ola 2,Cita 8,Doca,13,9:35,9:40,10:30,,Bloqueada,FALSE,CUMBIA,VERDE,9:35,,,,,,,,,,,,,,,,,,
-,24-SEG,H,Ola 2,Cita 8,Doca,24,9:35,9:40,10:30,Chazki,Larga,FALSE,CUMBIA,VERDE,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,25-SEG,H,Ola 2,Cita 8,Doca,25,9:35,9:40,10:30,Chazki,Larga,FALSE,CUMBIA,VERDE,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,26-SEG,H,Ola 2,Cita 8,Doca,26,9:35,9:40,10:30,Chazki,Larga,FALSE,CUMBIA,VERDE,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,27-SEG,H,Ola 2,Cita 8,Doca,27,9:35,9:40,10:30,Chazki,Larga,FALSE,CUMBIA,VERDE,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,28-SEG,H,Ola 2,Cita 8,Doca,28,9:35,9:40,10:30,Chazki,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,29-SEG,H,Ola 2,Cita 8,Doca,29,9:35,9:40,10:30,Chazki,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,30-SEG,H,Ola 2,Cita 8,Doca,30,9:35,9:40,10:30,Chazki,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Chazki  (Larga),,,,,,,,,,,,,,,,
-,31-SEG,H,Ola 2,Cita 8,Doca,31,9:35,9:40,10:30,Maman,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Maman  (Larga),,,,,,,,,,,,,,,,
-,32-SEG,H,Ola 2,Cita 8,Doca,32,9:35,9:40,10:30,Maman,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Maman  (Larga),,,,,,,,,,,,,,,,
-,33-SEG,I,Ola 2,Cita 9,Doca,33,9:45,9:50,10:40,Iflow,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Iflow  (Larga),,,,,,,,,,,,,,,,
-,34-SEG,I,Ola 2,Cita 9,Doca,34,9:45,9:50,10:40,Iflow,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Iflow  (Larga),,,,,,,,,,,,,,,,
-,35-SEG,I,Ola 2,Cita 9,Doca,35,9:45,9:50,10:40,Intermedio,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Intermedio  (Larga),,,,,,,,,,,,,,,,
-,36-SEG,I,Ola 2,Cita 9,Doca,36,9:45,9:50,10:40,Intermedio,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Intermedio  (Larga),,,,,,,,,,,,,,,,
-,37-SEG,I,Ola 2,Cita 9,Doca,37,9:45,9:50,10:40,Correo e-Flet,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Correo e-Flet  (Larga),,,,,,,,,,,,,,,,
-,38-SEG,I,Ola 2,Cita 9,Doca,38,9:45,9:50,10:40,Correo e-Flet,Larga,FALSE,CUMBIA,AZUL,9:45,I,9:45 - Correo e-Flet  (Larga),,,,,,,,,,,,,,,,
-,39-SEG,I,Ola 2,Cita 9,Doca,39,9:45,9:50,10:10,,Bloqueada,FALSE,CUMBIA,AZUL,9:45,,,,,,,,,,,,,,,,,,
-,40-SEG,I,Ola 2,Cita 9,Doca,40,9:45,9:50,10:10,,Bloqueada,FALSE,ROCK,AZUL,9:45,,,,,,,,,,,,,,,,,,
-,41-SEG,I,Ola 2,Cita 9,Doca,41,9:45,9:50,10:40,Oeste Postal,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Oeste Postal  (Larga),,,,,,,,,,,,,,,,
-,42-SEG,I,Ola 2,Cita 9,Doca,42,9:45,9:50,10:40,Oeste Postal,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Oeste Postal  (Larga),,,,,,,,,,,,,,,,
-,43-SEG,I,Ola 2,Cita 9,Doca,43,9:45,9:50,10:40,EPSA,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - EPSA  (Larga),,,,,,,,,,,,,,,,
-,44-SEG,I,Ola 2,Cita 9,Doca,44,9:45,9:50,10:40,EPSA,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - EPSA  (Larga),,,,,,,,,,,,,,,,
-,45-SEG,I,Ola 2,Cita 9,Doca,45,9:45,9:50,10:40,EPSA,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - EPSA  (Larga),,,,,,,,,,,,,,,,
-,49-SEG,J,Ola 2,Cita 10,Doca,49,9:55,10:00,10:50,DPD Argentina S.A,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - DPD Argentina S.A  (Larga),,,,,,,,,,,,,,,,
-,50-SEG,J,Ola 2,Cita 10,Doca,50,9:55,10:00,10:50,DPD Argentina S.A,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - DPD Argentina S.A  (Larga),,,,,,,,,,,,,,,,
-,51-SEG,J,Ola 2,Cita 10,Doca,51,9:55,10:00,10:50,DPD Argentina S.A,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - DPD Argentina S.A  (Larga),,,,,,,,,,,,,,,,
-,52-SEG,J,Ola 2,Cita 10,Doca,52,9:55,10:00,10:50,Fast Track,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - Fast Track  (Larga),,,,,,,,,,,,,,,,
-,53-SEG,J,Ola 2,Cita 10,Doca,53,9:55,10:00,10:50,Fast Track,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - Fast Track  (Larga),,,,,,,,,,,,,,,,
-,54-SEG,J,Ola 2,Cita 10,Doca,54,9:55,10:00,10:50,Fast Track,Larga,FALSE,ROCK,ROJO,9:55,J,9:55 - Fast Track  (Larga),,,,,,,,,,,,,,,,
+,24-SEG,H,Ola 2,Cita 8,Doca,24,9:25,9:30,10:20,EntregAr,Larga,FALSE,CUMBIA,VERDE,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,25-SEG,H,Ola 2,Cita 8,Doca,25,9:25,9:30,10:20,EntregAr,Larga,FALSE,CUMBIA,VERDE,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,26-SEG,H,Ola 2,Cita 8,Doca,26,9:25,9:30,10:20,EntregAr,Larga,FALSE,CUMBIA,VERDE,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,27-SEG,H,Ola 2,Cita 8,Doca,27,9:25,9:30,10:20,EntregAr,Larga,FALSE,CUMBIA,VERDE,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,28-SEG,H,Ola 2,Cita 8,Doca,28,9:25,9:30,10:20,EntregAr,Larga,FALSE,ROCK,AMARILLO,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,29-SEG,H,Ola 2,Cita 8,Doca,29,9:25,9:30,10:20,EntregAr,Larga,FALSE,ROCK,AMARILLO,9:25,H,9:25 - EntregAr  (Larga),,,,,,,,,,,,,,,,
+,30-SEG,H,Ola 2,Cita 8,Doca,30,9:25,9:30,10:20,ELOG,Larga,FALSE,ROCK,AMARILLO,9:25,H,9:25 - ELOG  (Larga),,,,,,,,,,,,,,,,
+,31-SEG,H,Ola 2,Cita 8,Doca,31,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,32-SEG,H,Ola 2,Cita 8,Doca,32,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,ROCK,AMARILLO,9:35,H,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,33-SEG,I,Ola 2,Cita 9,Doca,33,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,34-SEG,I,Ola 2,Cita 9,Doca,34,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,35-SEG,I,Ola 2,Cita 9,Doca,35,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,36-SEG,I,Ola 2,Cita 9,Doca,36,9:35,9:40,10:30,Flashbox Delivery,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,37-SEG,I,Ola 2,Cita 9,Doca,37,9:35,9:40,10:30,Correo e-Flet,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Correo e-Flet  (Larga),,,,,,,,,,,,,,,,
+,38-SEG,I,Ola 2,Cita 9,Doca,38,9:35,9:40,10:30,Correo e-Flet,Larga,FALSE,CUMBIA,AZUL,9:35,I,9:35 - Correo e-Flet  (Larga),,,,,,,,,,,,,,,,
+,39-SEG,I,Ola 2,Cita 9,Doca,39,9:20,9:25,10:15,,Bloqueada,FALSE,CUMBIA,AZUL,9:20,,,,,,,,,,,,,,,,,,
+,40-SEG,I,Ola 2,Cita 9,Doca,40,9:20,9:25,10:15,,Bloqueada,FALSE,ROCK,AZUL,9:20,,,,,,,,,,,,,,,,,,
+,41-SEG,I,Ola 2,Cita 9,Doca,41,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,42-SEG,I,Ola 2,Cita 9,Doca,42,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,43-SEG,I,Ola 2,Cita 9,Doca,43,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,44-SEG,I,Ola 2,Cita 9,Doca,44,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,45-SEG,I,Ola 2,Cita 9,Doca,45,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,AZUL,9:45,I,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,49-SEG,J,Ola 2,Cita 10,Doca,49,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,50-SEG,J,Ola 2,Cita 10,Doca,50,9:45,9:50,10:40,Chazki,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Chazki  (Larga),,,,,,,,,,,,,,,,
+,51-SEG,J,Ola 2,Cita 10,Doca,51,9:45,9:50,10:40,Dominus Cargo,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Dominus Cargo  (Larga),,,,,,,,,,,,,,,,
+,52-SEG,J,Ola 2,Cita 10,Doca,52,9:45,9:50,10:40,Dominus Cargo,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Dominus Cargo  (Larga),,,,,,,,,,,,,,,,
+,53-SEG,J,Ola 2,Cita 10,Doca,53,9:45,9:50,10:40,Dominus Cargo,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Dominus Cargo  (Larga),,,,,,,,,,,,,,,,
+,54-SEG,J,Ola 2,Cita 10,Doca,54,9:45,9:50,10:40,Dominus Cargo,Larga,FALSE,ROCK,ROJO,9:45,J,9:45 - Dominus Cargo  (Larga),,,,,,,,,,,,,,,,
 ,55-SEG,J,Ola 2,Cita 10,Doca,55,9:55,10:00,10:50,,Bloqueada,FALSE,ROCK,ROJO,9:55,,,,,,,,,,,,,,,,,,
 ,56-SEG,J,Ola 2,Cita 10,Doca,56,9:55,10:00,10:50,,Bloqueada,FALSE,ROCK,ROJO,9:55,,,,,,,,,,,,,,,,,,
 ,57-SEG,J,Ola 2,Cita 10,Doca,57,9:55,10:00,10:50,,Bloqueada,FALSE,ROCK,ROJO,9:55,,,,,,,,,,,,,,,,,,
 ,58-SEG,J,Ola 2,Cita 10,Doca,58,9:55,10:00,10:50,,Bloqueada,FALSE,ROCK,ROJO,9:55,,,,,,,,,,,,,,,,,,
 ,61-TERC,K,Ola 3,Cita 11,Doca,61,10:00,10:05,10:40,Chazki,Chasis,FALSE,#N/A,#N/A,10:00,K,10:00 - Chazki  (Chasis),,,,,,,,,,,,,,,,
-,62-TERC,K,Ola 3,Cita 11,Doca,62,10:00,10:05,10:40,EntregAr,Chasis,FALSE,#N/A,#N/A,10:00,K,10:00 - EntregAr  (Chasis),,,,,,,,,,,,,,,,
-,63-TERC,K,Ola 3,Cita 11,Doca,63,10:00,10:05,10:40,,Chasis Mediano,FALSE,#N/A,#N/A,10:00,,,,,,,,,,,,,,,,,,
-,14-TERC,K,Ola 3,Cita 11,Doca,14,10:00,10:05,10:40,,Corta,FALSE,CUMBIA,VERDE,10:00,,,,,,,,,,,,,,,,,,
-,15-TERC,K,Ola 3,Cita 11,Doca,15,10:00,10:05,10:40,,Corta,FALSE,CUMBIA,VERDE,10:00,,,,,,,,,,,,,,,,,,
+,62-TERC,K,Ola 3,Cita 11,Doca,62,10:00,10:05,10:40,Chazki,Chasis,FALSE,#N/A,#N/A,10:00,K,10:00 - Chazki  (Chasis),,,,,,,,,,,,,,,,
+,63-TERC,K,Ola 3,Cita 11,Doca,63,10:00,10:05,10:40,Chazki,Chasis Mediano,FALSE,#N/A,#N/A,10:00,K,10:00 - Chazki  (Chasis Mediano),,,,,,,,,,,,,,,,
+,14-TERC,K,Ola 3,Cita 11,Doca,14,10:00,10:05,10:40,Oeste Postal,Corta,FALSE,CUMBIA,VERDE,10:00,K,10:00 - Oeste Postal  (Corta),,,,,,,,,,,,,,,,
+,15-TERC,K,Ola 3,Cita 11,Doca,15,10:00,10:05,10:40,Correo e-Flet,Corta,FALSE,CUMBIA,VERDE,10:00,K,10:00 - Correo e-Flet  (Corta),,,,,,,,,,,,,,,,
 ,16-TERC,K,Ola 3,Cita 11,Doca,16,10:00,10:05,10:40,,Corta,FALSE,CUMBIA,VERDE,10:00,,,,,,,,,,,,,,,,,,
 ,17-TERC,K,Ola 3,Cita 11,Doca,17,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
 ,18-TERC,K,Ola 3,Cita 11,Doca,18,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
 ,19-TERC,K,Ola 3,Cita 11,Doca,19,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
-,20-TERC,K,Ola 3,Cita 11,Doca,20,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
-,21-TERC,K,Ola 3,Cita 11,Doca,21,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
-,22-TERC,K,Ola 3,Cita 11,Doca,22,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
-,23-TERC,K,Ola 3,Cita 12,Doca,23,10:00,10:05,10:40,,Corta,FALSE,ROCK,AMARILLO,10:00,,,,,,,,,,,,,,,,,,
-,46-TERC,K,Ola 3,Cita 13,Doca,46,10:00,10:05,10:40,,Corta,FALSE,ROCK,ROJO,10:00,,,,,,,,,,,,,,,,,,
-,47-TERC,K,Ola 3,Cita 14,Doca,47,10:00,10:05,10:40,,Corta,FALSE,ROCK,ROJO,10:00,,,,,,,,,,,,,,,,,,
-,48-TERC,K,Ola 3,Cita 15,Doca,48,10:00,10:05,10:40,,Corta,FALSE,ROCK,ROJO,10:00,,,,,,,,,,,,,,,,,,
-,1-CUAR,L,Ola 4,Cita 12,Doca,1,10:05,10:10,11:00,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
-,2-CUAR,L,Ola 4,Cita 12,Doca,2,10:05,10:10,11:00,Kaizen,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - Kaizen  (UT- SDD),,,,,,,,,,,,,,,,
+,20-TERC,K,Ola 3,Cita 11,Doca,20,10:05,10:10,10:45,,Corta,FALSE,ROCK,AMARILLO,10:05,,,,,,,,,,,,,,,,,,
+,21-TERC,K,Ola 3,Cita 11,Doca,21,10:05,10:10,10:45,,Corta,FALSE,ROCK,AMARILLO,10:05,,,,,,,,,,,,,,,,,,
+,22-TERC,K,Ola 3,Cita 11,Doca,22,10:05,10:10,10:45,,Corta,FALSE,ROCK,AMARILLO,10:05,,,,,,,,,,,,,,,,,,
+,23-TERC,K,Ola 3,Cita 12,Doca,23,10:05,10:10,10:45,,Corta,FALSE,ROCK,AMARILLO,10:05,,,,,,,,,,,,,,,,,,
+,46-TERC,K,Ola 3,Cita 13,Doca,46,10:05,10:10,10:45,,Corta,FALSE,ROCK,ROJO,10:05,,,,,,,,,,,,,,,,,,
+,47-TERC,K,Ola 3,Cita 14,Doca,47,10:05,10:10,10:45,,Corta,FALSE,ROCK,ROJO,10:05,,,,,,,,,,,,,,,,,,
+,48-TERC,K,Ola 3,Cita 15,Doca,48,10:05,10:10,10:45,,Corta,FALSE,ROCK,ROJO,10:05,,,,,,,,,,,,,,,,,,
+,1-CUAR,L,Ola 4,Cita 12,Doca,1,10:05,10:10,11:00,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
+,2-CUAR,L,Ola 4,Cita 12,Doca,2,10:05,10:10,11:00,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
 ,3-CUAR,L,Ola 4,Cita 12,Doca,3,10:05,10:10,11:00,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
 ,4-CUAR,L,Ola 4,Cita 12,Doca,4,10:05,10:10,11:00,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:05,L,10:05 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
-,5-CUAR,L,Ola 4,Cita 12,Doca,5,10:05,10:10,11:00,Clicoh,Larga,FALSE,CUMBIA,ROSA,10:05,L,10:05 - Clicoh  (Larga),,,,,,,,,,,,,,,,
-,6-CUAR,L,Ola 4,Cita 12,Doca,6,10:05,10:10,11:00,Webpack,Larga,FALSE,CUMBIA,ROSA,10:05,L,10:05 - Webpack  (Larga),,,,,,,,,,,,,,,,
+,5-CUAR,L,Ola 4,Cita 12,Doca,5,10:10,10:15,11:05,Iflow,Larga,FALSE,CUMBIA,ROSA,10:10,L,10:10 - Iflow  (Larga),,,,,,,,,,,,,,,,
+,6-CUAR,L,Ola 4,Cita 12,Doca,6,10:10,10:15,11:05,Iflow,Larga,FALSE,CUMBIA,ROSA,10:10,L,10:10 - Iflow  (Larga),,,,,,,,,,,,,,,,
 ,7-CUAR,L,Ola 4,Cita 12,Doca,7,10:05,10:10,11:00,,Mediana,FALSE,CUMBIA,ROSA,10:05,,,,,,,,,,,,,,,,,,
 ,8-CUAR,L,Ola 4,Cita 12,Doca,8,10:05,10:10,11:00,,Mediana,FALSE,CUMBIA,ROSA,10:05,,,,,,,,,,,,,,,,,,
 ,9-CUAR,L,Ola 4,Cita 12,Doca,9,10:05,10:10,11:00,,Mediana,FALSE,CUMBIA,ROSA,10:05,,,,,,,,,,,,,,,,,,
@@ -144,47 +144,47 @@
 ,11-CUAR,M,Ola 4,Cita 13,Doca,11,10:25,10:30,11:20,,Bloqueada,FALSE,CUMBIA,VERDE,10:25,,,,,,,,,,,,,,,,,,
 ,12-CUAR,M,Ola 4,Cita 13,Doca,12,10:25,10:30,11:20,,Bloqueada,FALSE,CUMBIA,VERDE,10:25,,,,,,,,,,,,,,,,,,
 ,13-CUAR,M,Ola 4,Cita 13,Doca,13,10:25,10:30,11:20,,Bloqueada,FALSE,CUMBIA,VERDE,10:25,,,,,,,,,,,,,,,,,,
-,24-CUAR,M,Ola 4,Cita 13,Doca,24,10:25,10:30,11:20,Shipment Box,Larga,FALSE,CUMBIA,VERDE,10:25,M,10:25 - Shipment Box  (Larga),,,,,,,,,,,,,,,,
-,25-CUAR,M,Ola 4,Cita 13,Doca,25,10:25,10:30,11:20,Kaizen,Larga,FALSE,CUMBIA,VERDE,10:25,M,10:25 - Kaizen  (Larga),,,,,,,,,,,,,,,,
-,26-CUAR,M,Ola 4,Cita 13,Doca,26,10:25,10:30,11:20,NyG,Larga,FALSE,CUMBIA,VERDE,10:25,M,10:25 - NyG  (Larga),,,,,,,,,,,,,,,,
-,27-CUAR,M,Ola 4,Cita 13,Doca,27,10:25,10:30,11:20,NyG,Larga,FALSE,CUMBIA,VERDE,10:25,M,10:25 - NyG  (Larga),,,,,,,,,,,,,,,,
-,28-CUAR,M,Ola 4,Cita 13,Doca,28,10:25,10:30,11:20,NyG,Larga,FALSE,ROCK,AMARILLO,10:25,M,10:25 - NyG  (Larga),,,,,,,,,,,,,,,,
-,29-CUAR,M,Ola 4,Cita 13,Doca,29,10:25,10:30,11:20,NyG,Larga,FALSE,ROCK,AMARILLO,10:25,M,10:25 - NyG  (Larga),,,,,,,,,,,,,,,,
-,30-CUAR,M,Ola 4,Cita 13,Doca,30,10:25,10:30,11:20,NyG,Larga,FALSE,ROCK,AMARILLO,10:25,M,10:25 - NyG  (Larga),,,,,,,,,,,,,,,,
-,31-CUAR,M,Ola 4,Cita 13,Doca,31,10:25,10:30,11:20,Iflow,Larga,TRUE,ROCK,AMARILLO,10:25,M,10:25 - Iflow  (Larga),,,,,,,,,,,,,,,,
-,32-CUAR,M,Ola 4,Cita 13,Doca,32,10:25,10:30,11:20,,Larga,FALSE,ROCK,AMARILLO,10:25,,,,,,,,,,,,,,,,,,
-,33-CUAR,N,Ola 4,Cita 14,Doca,33,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,34-CUAR,N,Ola 4,Cita 14,Doca,34,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,35-CUAR,N,Ola 4,Cita 14,Doca,35,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,36-CUAR,N,Ola 4,Cita 14,Doca,36,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,37-CUAR,N,Ola 4,Cita 14,Doca,37,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,38-CUAR,N,Ola 4,Cita 14,Doca,38,10:35,10:40,11:30,,Larga,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,39-CUAR,N,Ola 4,Cita 14,Doca,39,10:35,10:40,11:00,,Bloqueada,FALSE,CUMBIA,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,40-CUAR,N,Ola 4,Cita 14,Doca,40,10:35,10:40,11:00,,Bloqueada,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,41-CUAR,N,Ola 4,Cita 14,Doca,41,10:35,10:40,11:30,,Larga,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,42-CUAR,N,Ola 4,Cita 14,Doca,42,10:35,10:40,11:30,,Larga,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,43-CUAR,N,Ola 4,Cita 14,Doca,43,10:35,10:40,11:30,,Larga,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,44-CUAR,N,Ola 4,Cita 14,Doca,44,10:35,10:40,11:30,,Larga,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,45-CUAR,N,Ola 4,Cita 14,Doca,45,10:35,10:40,11:30,,Larga,FALSE,ROCK,AZUL,10:35,,,,,,,,,,,,,,,,,,
-,49-CUAR,O,Ola 4,Cita 15,Doca,49,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,50-CUAR,O,Ola 4,Cita 15,Doca,50,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,51-CUAR,O,Ola 4,Cita 15,Doca,51,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,52-CUAR,O,Ola 4,Cita 15,Doca,52,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,53-CUAR,O,Ola 4,Cita 15,Doca,53,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,54-CUAR,O,Ola 4,Cita 15,Doca,54,10:45,10:50,11:40,,Larga,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
+,24-CUAR,M,Ola 4,Cita 13,Doca,24,10:15,10:20,11:10,QX Logistica,Larga,FALSE,CUMBIA,VERDE,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,25-CUAR,M,Ola 4,Cita 13,Doca,25,10:15,10:20,11:10,QX Logistica,Larga,FALSE,CUMBIA,VERDE,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,26-CUAR,M,Ola 4,Cita 13,Doca,26,10:15,10:20,11:10,QX Logistica,Larga,FALSE,CUMBIA,VERDE,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,27-CUAR,M,Ola 4,Cita 13,Doca,27,10:15,10:20,11:10,QX Logistica,Larga,FALSE,CUMBIA,VERDE,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,28-CUAR,M,Ola 4,Cita 13,Doca,28,10:15,10:20,11:10,QX Logistica,Larga,FALSE,ROCK,AMARILLO,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,29-CUAR,M,Ola 4,Cita 13,Doca,29,10:15,10:20,11:10,QX Logistica,Larga,FALSE,ROCK,AMARILLO,10:15,M,10:15 - QX Logistica  (Larga),,,,,,,,,,,,,,,,
+,30-CUAR,M,Ola 4,Cita 13,Doca,30,10:15,10:20,11:10,Oeste Postal,Larga,FALSE,ROCK,AMARILLO,10:15,M,10:15 - Oeste Postal  (Larga),,,,,,,,,,,,,,,,
+,31-CUAR,M,Ola 4,Cita 13,Doca,31,10:15,10:20,11:10,Oeste Postal,Larga,FALSE,ROCK,AMARILLO,10:15,M,10:15 - Oeste Postal  (Larga),,,,,,,,,,,,,,,,
+,32-CUAR,M,Ola 4,Cita 13,Doca,32,10:15,10:20,11:10,Maman,Larga,FALSE,ROCK,AMARILLO,10:15,M,10:15 - Maman  (Larga),,,,,,,,,,,,,,,,
+,33-CUAR,N,Ola 4,Cita 14,Doca,33,10:30,10:35,11:25,Maman,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Maman  (Larga),,,,,,,,,,,,,,,,
+,34-CUAR,N,Ola 4,Cita 14,Doca,34,10:30,10:35,11:25,Maman,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Maman  (Larga),,,,,,,,,,,,,,,,
+,35-CUAR,N,Ola 4,Cita 14,Doca,35,10:30,10:35,11:25,Fleet,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Fleet  (Larga),,,,,,,,,,,,,,,,
+,36-CUAR,N,Ola 4,Cita 14,Doca,36,10:30,10:35,11:25,Andesmar,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Andesmar  (Larga),,,,,,,,,,,,,,,,
+,37-CUAR,N,Ola 4,Cita 14,Doca,37,10:30,10:35,11:25,Andesmar,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Andesmar  (Larga),,,,,,,,,,,,,,,,
+,38-CUAR,N,Ola 4,Cita 14,Doca,38,10:30,10:35,11:25,Clicoh,Larga,FALSE,CUMBIA,AZUL,10:30,N,10:30 - Clicoh  (Larga),,,,,,,,,,,,,,,,
+,39-CUAR,N,Ola 4,Cita 14,Doca,39,10:30,10:35,11:00,,Bloqueada,FALSE,CUMBIA,AZUL,10:30,,,,,,,,,,,,,,,,,,
+,40-CUAR,N,Ola 4,Cita 14,Doca,40,10:30,10:35,11:00,,Bloqueada,FALSE,ROCK,AZUL,10:30,,,,,,,,,,,,,,,,,,
+,41-CUAR,N,Ola 4,Cita 14,Doca,41,10:30,10:35,11:25,Webpack,Larga,FALSE,ROCK,AZUL,10:30,N,10:30 - Webpack  (Larga),,,,,,,,,,,,,,,,
+,42-CUAR,N,Ola 4,Cita 14,Doca,42,10:30,10:35,11:25,Shipment Box,Larga,FALSE,ROCK,AZUL,10:30,N,10:30 - Shipment Box  (Larga),,,,,,,,,,,,,,,,
+,43-CUAR,N,Ola 4,Cita 14,Doca,43,10:30,10:35,11:25,Kaizen,Larga,FALSE,ROCK,AZUL,10:30,N,10:30 - Kaizen  (Larga),,,,,,,,,,,,,,,,
+,44-CUAR,N,Ola 4,Cita 14,Doca,44,10:40,10:45,11:35,EnvioPack,Larga,FALSE,ROCK,AZUL,10:40,N,10:40 - EnvioPack  (Larga),,,,,,,,,,,,,,,,
+,45-CUAR,N,Ola 4,Cita 14,Doca,45,10:40,10:45,11:35,EnvioPack,Larga,FALSE,ROCK,AZUL,10:40,N,10:40 - EnvioPack  (Larga),,,,,,,,,,,,,,,,
+,49-CUAR,O,Ola 4,Cita 15,Doca,49,10:40,10:45,11:35,EnvioPack,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - EnvioPack  (Larga),,,,,,,,,,,,,,,,
+,50-CUAR,O,Ola 4,Cita 15,Doca,50,10:40,10:45,11:35,EPSA,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - EPSA  (Larga),,,,,,,,,,,,,,,,
+,51-CUAR,O,Ola 4,Cita 15,Doca,51,10:40,10:45,11:35,EPSA,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - EPSA  (Larga),,,,,,,,,,,,,,,,
+,52-CUAR,O,Ola 4,Cita 15,Doca,52,10:40,10:45,11:35,EPSA,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - EPSA  (Larga),,,,,,,,,,,,,,,,
+,53-CUAR,O,Ola 4,Cita 15,Doca,53,10:40,10:45,11:35,DPD Argentina S.A,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - DPD Argentina S.A  (Larga),,,,,,,,,,,,,,,,
+,54-CUAR,O,Ola 4,Cita 15,Doca,54,10:40,10:45,11:35,DPD Argentina S.A,Larga,FALSE,ROCK,ROJO,10:40,O,10:40 - DPD Argentina S.A  (Larga),,,,,,,,,,,,,,,,
 ,14-CUAR,O,Ola 4,Cita 15,Doca,14,10:45,10:50,11:25,,Corta,FALSE,CUMBIA,VERDE,10:45,,,,,,,,,,,,,,,,,,
 ,15-CUAR,O,Ola 4,Cita 15,Doca,15,10:45,10:50,11:25,,Corta,FALSE,CUMBIA,VERDE,10:45,,,,,,,,,,,,,,,,,,
 ,16-CUAR,O,Ola 4,Cita 15,Doca,16,10:45,10:50,11:25,,Corta,FALSE,CUMBIA,VERDE,10:45,,,,,,,,,,,,,,,,,,
 ,17-CUAR,O,Ola 4,Cita 15,Doca,17,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
 ,18-CUAR,O,Ola 4,Cita 15,Doca,18,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
 ,19-CUAR,O,Ola 4,Cita 15,Doca,19,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
-,20-CUAR,O,Ola 4,Cita 15,Doca,20,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
-,21-CUAR,O,Ola 4,Cita 15,Doca,21,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
-,22-CUAR,O,Ola 4,Cita 15,Doca,22,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
-,23-CUAR,O,Ola 4,Cita 15,Doca,23,10:45,10:50,11:25,,Corta,FALSE,ROCK,AMARILLO,10:45,,,,,,,,,,,,,,,,,,
-,46-CUAR,O,Ola 4,Cita 15,Doca,46,10:45,10:50,11:25,,Corta,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,47-CUAR,O,Ola 4,Cita 15,Doca,47,10:45,10:50,11:25,,Corta,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
-,48-CUAR,O,Ola 4,Cita 15,Doca,48,10:45,10:50,11:25,,Corta,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
+,20-CUAR,O,Ola 4,Cita 15,Doca,20,10:55,11:00,11:35,,Corta,FALSE,ROCK,AMARILLO,10:55,,,,,,,,,,,,,,,,,,
+,21-CUAR,O,Ola 4,Cita 15,Doca,21,10:55,11:00,11:35,,Corta,FALSE,ROCK,AMARILLO,10:55,,,,,,,,,,,,,,,,,,
+,22-CUAR,O,Ola 4,Cita 15,Doca,22,10:55,11:00,11:35,,Corta,FALSE,ROCK,AMARILLO,10:55,,,,,,,,,,,,,,,,,,
+,23-CUAR,O,Ola 4,Cita 15,Doca,23,10:55,11:00,11:35,,Corta,FALSE,ROCK,AMARILLO,10:55,,,,,,,,,,,,,,,,,,
+,46-CUAR,O,Ola 4,Cita 15,Doca,46,10:55,11:00,11:35,,Corta,FALSE,ROCK,ROJO,10:55,,,,,,,,,,,,,,,,,,
+,47-CUAR,O,Ola 4,Cita 15,Doca,47,10:55,11:00,11:35,,Corta,FALSE,ROCK,ROJO,10:55,,,,,,,,,,,,,,,,,,
+,48-CUAR,O,Ola 4,Cita 15,Doca,48,10:55,11:00,11:35,,Corta,FALSE,ROCK,ROJO,10:55,,,,,,,,,,,,,,,,,,
 ,55-CUAR,O,Ola 4,Cita 15,Doca,55,10:45,10:50,11:10,,Bloqueada,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
 ,56-CUAR,O,Ola 4,Cita 15,Doca,56,10:45,10:50,11:10,,Bloqueada,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
 ,57-CUAR,O,Ola 4,Cita 15,Doca,57,10:45,10:50,11:10,,Bloqueada,FALSE,ROCK,ROJO,10:45,,,,,,,,,,,,,,,,,,
@@ -192,12 +192,12 @@
 ,61-CUAR,O,Ola 4,Cita 15,Doca,61,9:50,10:00,11:20,,Chasis,FALSE,#N/A,#N/A,9:50,,,,,,,,,,,,,,,,,,
 ,62-CUAR,O,Ola 4,Cita 15,Doca,62,9:50,10:00,11:20,,Chasis,FALSE,#N/A,#N/A,9:50,,,,,,,,,,,,,,,,,,
 ,63-CUAR,O,Ola 4,Cita 15,Doca,63,9:50,10:00,11:20,,Chasis,FALSE,#N/A,#N/A,9:50,,,,,,,,,,,,,,,,,,
-,1-QUIN,Q,Ola 5,Cita 17,Doca,1,10:55,11:00,11:50,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:55,Q,10:55 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
-,2-QUIN,Q,Ola 5,Cita 17,Doca,2,10:55,11:00,11:50,EntregAr,UT- SDD,FALSE,CUMBIA,ROSA,10:55,Q,10:55 - EntregAr  (UT- SDD),,,,,,,,,,,,,,,,
+,1-QUIN,Q,Ola 5,Cita 17,Doca,1,10:55,11:00,11:50,DPD Argentina S.A,UT- SDD,FALSE,CUMBIA,ROSA,10:55,Q,10:55 - DPD Argentina S.A  (UT- SDD),,,,,,,,,,,,,,,,
+,2-QUIN,Q,Ola 5,Cita 17,Doca,2,10:55,11:00,11:50,DPD Argentina S.A,UT- SDD,FALSE,CUMBIA,ROSA,10:55,Q,10:55 - DPD Argentina S.A  (UT- SDD),,,,,,,,,,,,,,,,
 ,3-QUIN,Q,Ola 5,Cita 17,Doca,3,10:55,11:00,11:50,,UT- SDD,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
 ,4-QUIN,Q,Ola 5,Cita 17,Doca,4,10:55,11:00,11:50,,UT- SDD,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
-,5-QUIN,Q,Ola 5,Cita 17,Doca,5,10:55,11:00,11:50,,Larga,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
-,6-QUIN,Q,Ola 5,Cita 17,Doca,6,10:55,11:00,11:50,,Larga,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
+,5-QUIN,Q,Ola 5,Cita 17,Doca,5,11:00,11:05,11:55,Flashbox Delivery,Larga,TRUE,CUMBIA,ROSA,11:00,Q,11:00 - Flashbox Delivery  (Larga),,,,,,,,,,,,,,,,
+,6-QUIN,Q,Ola 5,Cita 17,Doca,6,11:00,11:05,11:55,NyG,Larga,FALSE,CUMBIA,ROSA,11:00,Q,11:00 - NyG  (Larga),,,,,,,,,,,,,,,,
 ,7-QUIN,Q,Ola 5,Cita 17,Doca,7,10:55,11:00,11:50,,Mediana,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
 ,8-QUIN,Q,Ola 5,Cita 17,Doca,8,10:55,11:00,11:50,,Mediana,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
 ,9-QUIN,Q,Ola 5,Cita 17,Doca,9,10:55,11:00,11:50,,Mediana,FALSE,CUMBIA,ROSA,10:55,,,,,,,,,,,,,,,,,,
@@ -205,35 +205,35 @@
 ,11-QUIN,Q,Ola 5,Cita 17,Doca,11,11:15,11:20,12:10,,Bloqueada,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
 ,12-QUIN,Q,Ola 5,Cita 17,Doca,12,11:15,11:20,12:10,,Bloqueada,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
 ,13-QUIN,Q,Ola 5,Cita 17,Doca,13,11:15,11:20,12:10,,Bloqueada,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
-,24-QUIN,Q,Ola 5,Cita 18,Doca,24,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
-,25-QUIN,Q,Ola 5,Cita 18,Doca,25,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
-,26-QUIN,Q,Ola 5,Cita 18,Doca,26,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
-,27-QUIN,Q,Ola 5,Cita 18,Doca,27,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,VERDE,11:15,,,,,,,,,,,,,,,,,,
-,28-QUIN,Q,Ola 5,Cita 18,Doca,28,11:15,11:20,12:10,,Larga,FALSE,ROCK,AMARILLO,11:15,,,,,,,,,,,,,,,,,,
-,29-QUIN,Q,Ola 5,Cita 18,Doca,29,11:15,11:20,12:10,,Larga,FALSE,ROCK,AMARILLO,11:15,,,,,,,,,,,,,,,,,,
-,30-QUIN,Q,Ola 5,Cita 18,Doca,30,11:15,11:20,12:10,,Larga,FALSE,ROCK,AMARILLO,11:15,,,,,,,,,,,,,,,,,,
-,31-QUIN,Q,Ola 5,Cita 18,Doca,31,11:15,11:20,12:10,,Larga,FALSE,ROCK,AMARILLO,11:15,,,,,,,,,,,,,,,,,,
-,32-QUIN,Q,Ola 5,Cita 18,Doca,32,11:15,11:20,12:10,,Larga,FALSE,ROCK,AMARILLO,11:15,,,,,,,,,,,,,,,,,,
-,33-QUIN,Q,Ola 5,Cita 18,Doca,33,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,34-QUIN,Q,Ola 5,Cita 18,Doca,34,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,35-QUIN,Q,Ola 5,Cita 18,Doca,35,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,36-QUIN,Q,Ola 5,Cita 18,Doca,36,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,37-QUIN,Q,Ola 5,Cita 18,Doca,37,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,38-QUIN,Q,Ola 5,Cita 18,Doca,38,11:15,11:20,12:10,,Larga,FALSE,CUMBIA,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,41-QUIN,Q,Ola 5,Cita 18,Doca,41,11:15,11:20,12:10,,Larga,FALSE,ROCK,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,42-QUIN,Q,Ola 5,Cita 18,Doca,42,11:15,11:20,12:10,,Larga,FALSE,ROCK,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,43-QUIN,Q,Ola 5,Cita 18,Doca,43,11:15,11:20,12:10,,Larga,FALSE,ROCK,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,44-QUIN,Q,Ola 5,Cita 18,Doca,44,11:15,11:20,12:10,,Larga,FALSE,ROCK,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,45-QUIN,Q,Ola 5,Cita 18,Doca,45,11:15,11:20,12:10,,Larga,FALSE,ROCK,AZUL,11:15,,,,,,,,,,,,,,,,,,
-,46-QUIN,T,Ola 5,Cita 18,Doca,46,11:25,11:30,12:05,,Corta,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,47-QUIN,T,Ola 5,Cita 18,Doca,47,11:25,11:30,12:05,,Corta,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,48-QUIN,T,Ola 5,Cita 18,Doca,48,11:25,11:30,12:05,,Corta,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,49-QUIN,T,Ola 5,Cita 18,Doca,49,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,50-QUIN,T,Ola 5,Cita 19,Doca,50,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,51-QUIN,T,Ola 5,Cita 19,Doca,51,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,52-QUIN,T,Ola 5,Cita 19,Doca,52,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,53-QUIN,T,Ola 5,Cita 19,Doca,53,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
-,54-QUIN,T,Ola 5,Cita 19,Doca,54,11:25,11:30,12:20,,Larga,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
+,24-QUIN,Q,Ola 5,Cita 18,Doca,24,11:00,11:05,11:55,NyG,Larga,FALSE,CUMBIA,VERDE,11:00,Q,11:00 - NyG  (Larga),,,,,,,,,,,,,,,,
+,25-QUIN,Q,Ola 5,Cita 18,Doca,25,11:00,11:05,11:55,NyG,Larga,FALSE,CUMBIA,VERDE,11:00,Q,11:00 - NyG  (Larga),,,,,,,,,,,,,,,,
+,26-QUIN,Q,Ola 5,Cita 18,Doca,26,11:00,11:05,11:55,NyG,Larga,FALSE,CUMBIA,VERDE,11:00,Q,11:00 - NyG  (Larga),,,,,,,,,,,,,,,,
+,27-QUIN,Q,Ola 5,Cita 18,Doca,27,11:00,11:05,11:55,NyG,Larga,FALSE,CUMBIA,VERDE,11:00,Q,11:00 - NyG  (Larga),,,,,,,,,,,,,,,,
+,28-QUIN,Q,Ola 5,Cita 18,Doca,28,11:00,11:05,11:55,Fast Track,Larga,FALSE,ROCK,AMARILLO,11:00,Q,11:00 - Fast Track  (Larga),,,,,,,,,,,,,,,,
+,29-QUIN,Q,Ola 5,Cita 18,Doca,29,11:00,11:05,11:55,Fast Track,Larga,FALSE,ROCK,AMARILLO,11:00,Q,11:00 - Fast Track  (Larga),,,,,,,,,,,,,,,,
+,30-QUIN,Q,Ola 5,Cita 18,Doca,30,11:00,11:05,11:55,Fast Track,Larga,FALSE,ROCK,AMARILLO,11:00,Q,11:00 - Fast Track  (Larga),,,,,,,,,,,,,,,,
+,31-QUIN,Q,Ola 5,Cita 18,Doca,31,11:00,11:05,11:55,,Larga,FALSE,ROCK,AMARILLO,11:00,,,,,,,,,,,,,,,,,,
+,32-QUIN,Q,Ola 5,Cita 18,Doca,32,11:00,11:05,11:55,,Larga,FALSE,ROCK,AMARILLO,11:00,,,,,,,,,,,,,,,,,,
+,33-QUIN,Q,Ola 5,Cita 18,Doca,33,11:00,11:05,11:55,,Larga,FALSE,CUMBIA,AZUL,11:00,,,,,,,,,,,,,,,,,,
+,34-QUIN,Q,Ola 5,Cita 18,Doca,34,11:05,11:10,12:00,,Larga,FALSE,CUMBIA,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,35-QUIN,Q,Ola 5,Cita 18,Doca,35,11:05,11:10,12:00,,Larga,FALSE,CUMBIA,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,36-QUIN,Q,Ola 5,Cita 18,Doca,36,11:05,11:10,12:00,,Larga,FALSE,CUMBIA,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,37-QUIN,Q,Ola 5,Cita 18,Doca,37,11:05,11:10,12:00,,Larga,FALSE,CUMBIA,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,38-QUIN,Q,Ola 5,Cita 18,Doca,38,11:05,11:10,12:00,,Larga,FALSE,CUMBIA,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,41-QUIN,Q,Ola 5,Cita 18,Doca,41,11:05,11:10,12:00,,Larga,FALSE,ROCK,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,42-QUIN,Q,Ola 5,Cita 18,Doca,42,11:05,11:10,12:00,,Larga,FALSE,ROCK,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,43-QUIN,Q,Ola 5,Cita 18,Doca,43,11:05,11:10,12:00,,Larga,FALSE,ROCK,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,44-QUIN,Q,Ola 5,Cita 18,Doca,44,11:05,11:10,12:00,,Larga,FALSE,ROCK,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,45-QUIN,Q,Ola 5,Cita 18,Doca,45,11:05,11:10,12:00,,Larga,FALSE,ROCK,AZUL,11:05,,,,,,,,,,,,,,,,,,
+,46-QUIN,T,Ola 5,Cita 18,Doca,46,11:25,11:30,12:05,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
+,47-QUIN,T,Ola 5,Cita 18,Doca,47,11:25,11:30,12:05,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
+,48-QUIN,T,Ola 5,Cita 18,Doca,48,11:25,11:30,12:05,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
+,49-QUIN,T,Ola 5,Cita 18,Doca,49,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
+,50-QUIN,T,Ola 5,Cita 19,Doca,50,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
+,51-QUIN,T,Ola 5,Cita 19,Doca,51,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
+,52-QUIN,T,Ola 5,Cita 19,Doca,52,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
+,53-QUIN,T,Ola 5,Cita 19,Doca,53,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
+,54-QUIN,T,Ola 5,Cita 19,Doca,54,11:30,11:35,12:25,,Larga,FALSE,ROCK,ROJO,11:30,,,,,,,,,,,,,,,,,,
 ,55-QUIN,T,Ola 5,Cita 19,Doca,55,11:25,11:30,12:20,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
 ,56-QUIN,T,Ola 5,Cita 19,Doca,56,11:25,11:30,12:20,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
 ,57-QUIN,T,Ola 5,Cita 19,Doca,57,11:25,11:30,12:20,,Bloqueada,FALSE,ROCK,ROJO,11:25,,,,,,,,,,,,,,,,,,
@@ -270,7 +270,7 @@
 ,99-SEXT,S,Ola 6,Cita 20,Doca,99,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,100-SEXT,S,Ola 6,Cita 20,Doca,100,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,101-SEXT,S,Ola 6,Cita 20,Doca,101,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
-,102-SEXT,S,Ola 6,Cita 20,Doca,102,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,30,,,,,,,,,,,,,,
+,102-SEXT,S,Ola 6,Cita 20,Doca,102,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,103-SEXT,S,Ola 6,Cita 20,Doca,103,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,104-SEXT,S,Ola 6,Cita 20,Doca,104,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,105-SEXT,S,Ola 6,Cita 20,Doca,105,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
@@ -288,16 +288,25 @@
 ,117-SEXT,S,Ola 6,Cita 20,Doca,117,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,118-SEXT,S,Ola 6,Cita 20,Doca,118,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,119-SEXT,S,Ola 6,Cita 20,Doca,119,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
-,120-SEXT,S,Ola 6,Cita 20,Doca,120,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,,,,,,,,,,,,,,,,,,,,,
-,121-SEXT,S,Ola 6,Cita 20,Doca,121,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,,,,,,,,,,,,,,,,,,,,,
-,122-SEXT,S,Ola 6,Cita 20,Doca,122,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,,,,,,,,,,,,,,,,,,,,,
-,123-SEXT,S,Ola 6,Cita 20,Doca,123,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,,,,,,,,,,,,,,,,,,,,,
-,124-SEXT,S,Ola 6,Cita 20,Doca,124,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,,,,,,,,,,,,,,,,,,,,,
+,120-SEXT,S,Ola 6,Cita 20,Doca,120,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,121-SEXT,S,Ola 6,Cita 20,Doca,121,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,122-SEXT,S,Ola 6,Cita 20,Doca,122,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,123-SEXT,S,Ola 6,Cita 20,Doca,123,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,124-SEXT,S,Ola 6,Cita 20,Doca,124,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,125-SEXT,S,Ola 6,Cita 20,Doca,125,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,126-SEXT,S,Ola 6,Cita 20,Doca,126,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,127-SEXT,S,Ola 6,Cita 20,Doca,127,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,128-SEXT,S,Ola 6,Cita 20,Doca,128,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,129-SEXT,S,Ola 6,Cita 20,Doca,129,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,130-SEXT,S,Ola 6,Cita 20,Doca,130,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,131-SEXT,S,Ola 6,Cita 20,Doca,131,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,132-SEXT,S,Ola 6,Cita 20,Doca,132,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
+,133-SEXT,S,Ola 6,Cita 20,Doca,133,11:55,12:00,12:20,Falta Asignar MLP,Meli Extra,FALSE,#N/A,#N/A,11:55,S,11:55 - Falta Asignar MLP  (Meli Extra),,,,,,,,,,,,,,,,
 ,MULETO,,,MULETO,,,,,,,Corta,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
 ,MULETO,,,MULETO,,,,,,,Corta,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
 ,MULETO,,,MULETO,,,,,,,Corta,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
-,MULETO,,,MULETO,,,,,,Intermedio,Larga,FALSE,#N/A,#N/A,,, - Intermedio  (Larga),,,,,,,,,,,,,,,,
-,MULETO,,,MULETO,,,,,,Kaizen,Larga,FALSE,#N/A,#N/A,,, - Kaizen  (Larga),,,,,,,,,,,,,,,,
+,MULETO,,,MULETO,,,,,,,Larga,TRUE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+,MULETO,,,MULETO,,,,,,Chazki,Larga,FALSE,#N/A,#N/A,,, - Chazki  (Larga),,,,,,,,,,,,,,,,
 ,MULETO,,,MULETO,,,,,,,Larga,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
 ,EXTRAS,,,EXTRA,,,,,,,Larga,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
 ,EXTRAS,,,EXTRA,,,,,,,Larga,FALSE,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
